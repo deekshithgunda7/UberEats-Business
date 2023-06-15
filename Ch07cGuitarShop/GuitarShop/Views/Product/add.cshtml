@@ -1,0 +1,46 @@
+@* this view is used for the Add action and the Update action *@
+@model Product
+
+@section scripts {
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/
+                       jquery.validate.unobtrusive.min.js"></script>
+}
+
+<form asp-action="Create" method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+      @* <div class="mb-3">
+        <label asp-for="CategoryID" class="form-label">Category</label>
+        <select asp-for="CategoryID"
+                asp-items="@(new SelectList(ViewBag.Categories,
+                         "CategoryID","Name"))"
+                class="form-select"></select>
+    </div>  *@ 
+
+    <div class="mb-3">
+        <label asp-for="BusinessName" class="form-label"></label>
+        <input asp-for="BusinessName" class="form-control">
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="BusinessAddress" class="form-label"></label>
+        <input asp-for="BusinessAddress" class="form-control">
+    </div> 
+
+    <div class="mb-3">
+        <label asp-for="BusinessEmail" class="form-label"></label>
+        <input asp-for="BusinessEmail" class="form-control">
+    </div>
+
+   
+     <div class="mb-3">
+        <label asp-for="BusinessPhone" class="form-label">BusinessPhone</label>
+        <input asp-for="BusinessPhone" class="form-control">
+    </div>
+
+  
+    <input type="hidden" asp-for="ProductID" />
+
+    <button type="submit" class="btn btn-primary">Add</button>
+    <a asp-action="List" class="btn btn-primary">Cancel</a>
+</form>
