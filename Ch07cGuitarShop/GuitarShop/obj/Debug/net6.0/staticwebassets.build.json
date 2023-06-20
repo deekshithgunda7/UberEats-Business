@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6wBHEsMBDwehqMPyYCfTtsrMnKPBSRLKSlHMzt8DT24=",
+  "Hash": "GKhvUr8Bng8R7z0gNxWZ5iIwuCb7uLR1V/zVQ/YiuyQ=",
   "Source": "GuitarShop",
   "BasePath": "_content/GuitarShop",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "GuitarShop\\wwwroot",
       "Source": "GuitarShop",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\css\\site.css",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\favicon.ico",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\banner1.svg",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\banner1.svg",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "images/banner1.svg",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner1.svg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\banner2.svg",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\banner2.svg",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "images/banner2.svg",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner2.svg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\banner3.svg",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\banner3.svg",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "images/banner3.svg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\images\\banner3.svg"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\fg700s_l.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\fg700s_l.png",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "images/fg700s_l.png",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\images\\fg700s_l.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\fg700s_m.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\fg700s_m.png",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "images/fg700s_m.png",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\images\\fg700s_m.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\fg700s_s.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\fg700s_s.png",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "images/fg700s_s.png",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\images\\fg700s_s.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\hofner_l.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\hofner_l.png",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "images/hofner_l.png",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hofner_l.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\hofner_m.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\hofner_m.png",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "images/hofner_m.png",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hofner_m.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\hofner_s.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\hofner_s.png",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "images/hofner_s.png",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\images\\hofner_s.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\les_paul_l.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\les_paul_l.png",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "images/les_paul_l.png",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\les_paul_l.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\les_paul_m.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\les_paul_m.png",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "images/les_paul_m.png",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\images\\les_paul_m.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\les_paul_s.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\les_paul_s.png",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "images/les_paul_s.png",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\images\\les_paul_s.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\ludwig_l.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\ludwig_l.png",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "images/ludwig_l.png",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ludwig_l.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\ludwig_m.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\ludwig_m.png",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "images/ludwig_m.png",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ludwig_m.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\ludwig_s.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\ludwig_s.png",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "images/ludwig_s.png",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\images\\ludwig_s.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\precision_l.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\precision_l.png",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "images/precision_l.png",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\images\\precision_l.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\precision_m.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\precision_m.png",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "images/precision_m.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\images\\precision_m.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\precision_s.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\precision_s.png",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "images/precision_s.png",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\images\\precision_s.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\rodriguez_l.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\rodriguez_l.png",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "images/rodriguez_l.png",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\images\\rodriguez_l.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\rodriguez_m.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\rodriguez_m.png",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "images/rodriguez_m.png",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\images\\rodriguez_m.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\rodriguez_s.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\rodriguez_s.png",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "images/rodriguez_s.png",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\images\\rodriguez_s.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\sg_l.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\sg_l.png",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "images/sg_l.png",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sg_l.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\sg_m.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\sg_m.png",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "images/sg_m.png",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sg_m.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\sg_s.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\sg_s.png",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "images/sg_s.png",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\images\\sg_s.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\strat_l.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\strat_l.png",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "images/strat_l.png",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\images\\strat_l.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\strat_m.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\strat_m.png",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "images/strat_m.png",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\images\\strat_m.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\strat_s.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\strat_s.png",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "images/strat_s.png",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\images\\strat_s.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\tama_l.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\tama_l.png",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "images/tama_l.png",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\images\\tama_l.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\tama_m.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\tama_m.png",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "images/tama_m.png",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\images\\tama_m.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\tama_s.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\tama_s.png",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "images/tama_s.png",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\images\\tama_s.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\washburn_l.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\washburn_l.png",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "images/washburn_l.png",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\images\\washburn_l.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\washburn_m.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\washburn_m.png",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "images/washburn_m.png",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\images\\washburn_m.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\washburn_s.png",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\washburn_s.png",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "images/washburn_s.png",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\images\\washburn_s.png"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\js\\site.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\enums.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\enums.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/cjs/enums.js",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\cjs\\enums.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\enums.js.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\enums.js.map",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/cjs/enums.js.map",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\cjs\\enums.js.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\enums.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\enums.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/cjs/enums.min.js",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\cjs\\enums.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\popper-base.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\popper-base.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/cjs/popper-base.js",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\cjs\\popper-base.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\popper-base.js.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\popper-base.js.map",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/cjs/popper-base.js.map",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\cjs\\popper-base.js.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\popper-base.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\popper-base.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/cjs/popper-base.min.js",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\cjs\\popper-base.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\popper-lite.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\popper-lite.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/cjs/popper-lite.js",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\cjs\\popper-lite.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\popper-lite.js.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\popper-lite.js.map",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/cjs/popper-lite.js.map",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\cjs\\popper-lite.js.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\popper-lite.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\popper-lite.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/cjs/popper-lite.min.js",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\cjs\\popper-lite.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\popper.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\popper.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/cjs/popper.js",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\cjs\\popper.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\popper.js.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\popper.js.map",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/cjs/popper.js.map",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\cjs\\popper.js.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\popper.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\popper.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/cjs/popper.min.js",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\cjs\\popper.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\createPopper.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\createPopper.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/createPopper.js",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\createPopper.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\createPopper.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\createPopper.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/createPopper.min.js",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\createPopper.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\contains.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\contains.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/contains.js",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\contains.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\contains.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\contains.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/contains.min.js",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\contains.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getBoundingClientRect.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getBoundingClientRect.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/getBoundingClientRect.js",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\getBoundingClientRect.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getBoundingClientRect.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getBoundingClientRect.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/getBoundingClientRect.min.js",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\getBoundingClientRect.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getClippingRect.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getClippingRect.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/getClippingRect.js",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\getClippingRect.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getClippingRect.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getClippingRect.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/getClippingRect.min.js",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\getClippingRect.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getCompositeRect.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getCompositeRect.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/getCompositeRect.js",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\getCompositeRect.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getCompositeRect.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getCompositeRect.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/getCompositeRect.min.js",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\getCompositeRect.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getComputedStyle.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getComputedStyle.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/getComputedStyle.js",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\getComputedStyle.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getComputedStyle.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getComputedStyle.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/getComputedStyle.min.js",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\getComputedStyle.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getDocumentElement.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getDocumentElement.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/getDocumentElement.js",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\getDocumentElement.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getDocumentElement.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getDocumentElement.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/getDocumentElement.min.js",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\getDocumentElement.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getDocumentRect.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getDocumentRect.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/getDocumentRect.js",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\getDocumentRect.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getDocumentRect.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getDocumentRect.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/getDocumentRect.min.js",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\getDocumentRect.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getHTMLElementScroll.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getHTMLElementScroll.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/getHTMLElementScroll.js",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\getHTMLElementScroll.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getHTMLElementScroll.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getHTMLElementScroll.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/getHTMLElementScroll.min.js",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\getHTMLElementScroll.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getLayoutRect.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getLayoutRect.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/getLayoutRect.js",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\getLayoutRect.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getLayoutRect.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getLayoutRect.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/getLayoutRect.min.js",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\getLayoutRect.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getNodeName.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getNodeName.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/getNodeName.js",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\getNodeName.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getNodeName.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getNodeName.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/getNodeName.min.js",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\getNodeName.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getNodeScroll.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getNodeScroll.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/getNodeScroll.js",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\getNodeScroll.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getNodeScroll.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getNodeScroll.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/getNodeScroll.min.js",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\getNodeScroll.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getOffsetParent.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getOffsetParent.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/getOffsetParent.js",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\getOffsetParent.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getOffsetParent.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getOffsetParent.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/getOffsetParent.min.js",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\getOffsetParent.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getParentNode.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getParentNode.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/getParentNode.js",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\getParentNode.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getParentNode.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getParentNode.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/getParentNode.min.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\getParentNode.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getScrollParent.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getScrollParent.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/getScrollParent.js",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\getScrollParent.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getScrollParent.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getScrollParent.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/getScrollParent.min.js",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\getScrollParent.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getViewportRect.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getViewportRect.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/getViewportRect.js",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\getViewportRect.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getViewportRect.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getViewportRect.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/getViewportRect.min.js",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\getViewportRect.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getWindow.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getWindow.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/getWindow.js",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\getWindow.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getWindow.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getWindow.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/getWindow.min.js",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\getWindow.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getWindowScroll.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getWindowScroll.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/getWindowScroll.js",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\getWindowScroll.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getWindowScroll.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getWindowScroll.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/getWindowScroll.min.js",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\getWindowScroll.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getWindowScrollBarX.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getWindowScrollBarX.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/getWindowScrollBarX.js",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\getWindowScrollBarX.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getWindowScrollBarX.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getWindowScrollBarX.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/getWindowScrollBarX.min.js",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\getWindowScrollBarX.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\instanceOf.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\instanceOf.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/instanceOf.js",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\instanceOf.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\instanceOf.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\instanceOf.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/instanceOf.min.js",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\instanceOf.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\isScrollParent.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\isScrollParent.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/isScrollParent.js",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\isScrollParent.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\isScrollParent.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\isScrollParent.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/isScrollParent.min.js",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\isScrollParent.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\isTableElement.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\isTableElement.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/isTableElement.js",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\isTableElement.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\isTableElement.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\isTableElement.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/isTableElement.min.js",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\isTableElement.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\listScrollParents.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\listScrollParents.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/listScrollParents.js",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\listScrollParents.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\listScrollParents.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\listScrollParents.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/dom-utils/listScrollParents.min.js",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\dom-utils\\listScrollParents.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\enums.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\enums.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/enums.js",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\enums.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\enums.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\enums.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/enums.min.js",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\enums.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\index.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\index.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/index.js",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\index.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\index.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\index.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/index.min.js",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\index.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\applyStyles.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\applyStyles.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/modifiers/applyStyles.js",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\modifiers\\applyStyles.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\applyStyles.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\applyStyles.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/modifiers/applyStyles.min.js",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\modifiers\\applyStyles.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\arrow.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\arrow.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/modifiers/arrow.js",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\modifiers\\arrow.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\arrow.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\arrow.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/modifiers/arrow.min.js",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\modifiers\\arrow.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\computeStyles.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\computeStyles.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/modifiers/computeStyles.js",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\modifiers\\computeStyles.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\computeStyles.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\computeStyles.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/modifiers/computeStyles.min.js",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\modifiers\\computeStyles.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\eventListeners.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\eventListeners.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/modifiers/eventListeners.js",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\modifiers\\eventListeners.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\eventListeners.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\eventListeners.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/modifiers/eventListeners.min.js",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\modifiers\\eventListeners.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\flip.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\flip.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/modifiers/flip.js",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\modifiers\\flip.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\flip.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\flip.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/modifiers/flip.min.js",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\modifiers\\flip.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\hide.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\hide.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/modifiers/hide.js",
       "AssetKind": "All",
@@ -2839,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\modifiers\\hide.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\hide.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\hide.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/modifiers/hide.min.js",
       "AssetKind": "All",
@@ -2856,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\modifiers\\hide.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\index.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\index.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/modifiers/index.js",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\modifiers\\index.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\index.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\index.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/modifiers/index.min.js",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\modifiers\\index.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\offset.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\offset.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/modifiers/offset.js",
       "AssetKind": "All",
@@ -2907,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\modifiers\\offset.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\offset.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\offset.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/modifiers/offset.min.js",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\modifiers\\offset.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\popperOffsets.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\popperOffsets.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/modifiers/popperOffsets.js",
       "AssetKind": "All",
@@ -2941,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\modifiers\\popperOffsets.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\popperOffsets.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\popperOffsets.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/modifiers/popperOffsets.min.js",
       "AssetKind": "All",
@@ -2958,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\modifiers\\popperOffsets.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\preventOverflow.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\preventOverflow.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/modifiers/preventOverflow.js",
       "AssetKind": "All",
@@ -2975,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\modifiers\\preventOverflow.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\preventOverflow.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\preventOverflow.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/modifiers/preventOverflow.min.js",
       "AssetKind": "All",
@@ -2992,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\modifiers\\preventOverflow.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\popper-base.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\popper-base.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/popper-base.js",
       "AssetKind": "All",
@@ -3009,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\popper-base.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\popper-base.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\popper-base.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/popper-base.min.js",
       "AssetKind": "All",
@@ -3026,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\popper-base.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\popper-lite.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\popper-lite.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/popper-lite.js",
       "AssetKind": "All",
@@ -3043,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\popper-lite.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\popper-lite.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\popper-lite.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/popper-lite.min.js",
       "AssetKind": "All",
@@ -3060,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\popper-lite.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\popper.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\popper.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/popper.js",
       "AssetKind": "All",
@@ -3077,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\popper.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\popper.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\popper.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/popper.min.js",
       "AssetKind": "All",
@@ -3094,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\popper.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\types.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\types.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/types.js",
       "AssetKind": "All",
@@ -3111,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\types.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\types.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\types.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/types.min.js",
       "AssetKind": "All",
@@ -3128,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\types.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\computeAutoPlacement.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\computeAutoPlacement.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/computeAutoPlacement.js",
       "AssetKind": "All",
@@ -3145,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\computeAutoPlacement.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\computeAutoPlacement.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\computeAutoPlacement.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/computeAutoPlacement.min.js",
       "AssetKind": "All",
@@ -3162,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\computeAutoPlacement.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\computeOffsets.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\computeOffsets.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/computeOffsets.js",
       "AssetKind": "All",
@@ -3179,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\computeOffsets.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\computeOffsets.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\computeOffsets.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/computeOffsets.min.js",
       "AssetKind": "All",
@@ -3196,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\computeOffsets.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\debounce.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\debounce.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/debounce.js",
       "AssetKind": "All",
@@ -3213,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\debounce.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\debounce.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\debounce.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/debounce.min.js",
       "AssetKind": "All",
@@ -3230,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\debounce.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\detectOverflow.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\detectOverflow.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/detectOverflow.js",
       "AssetKind": "All",
@@ -3247,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\detectOverflow.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\detectOverflow.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\detectOverflow.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/detectOverflow.min.js",
       "AssetKind": "All",
@@ -3264,10 +3264,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\detectOverflow.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\expandToHashMap.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\expandToHashMap.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/expandToHashMap.js",
       "AssetKind": "All",
@@ -3281,10 +3281,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\expandToHashMap.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\expandToHashMap.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\expandToHashMap.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/expandToHashMap.min.js",
       "AssetKind": "All",
@@ -3298,10 +3298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\expandToHashMap.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\format.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\format.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/format.js",
       "AssetKind": "All",
@@ -3315,10 +3315,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\format.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\format.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\format.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/format.min.js",
       "AssetKind": "All",
@@ -3332,10 +3332,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\format.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getAltAxis.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getAltAxis.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/getAltAxis.js",
       "AssetKind": "All",
@@ -3349,10 +3349,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\getAltAxis.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getAltAxis.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getAltAxis.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/getAltAxis.min.js",
       "AssetKind": "All",
@@ -3366,10 +3366,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\getAltAxis.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getAltLen.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getAltLen.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/getAltLen.js",
       "AssetKind": "All",
@@ -3383,10 +3383,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\getAltLen.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getAltLen.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getAltLen.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/getAltLen.min.js",
       "AssetKind": "All",
@@ -3400,10 +3400,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\getAltLen.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getBasePlacement.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getBasePlacement.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/getBasePlacement.js",
       "AssetKind": "All",
@@ -3417,10 +3417,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\getBasePlacement.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getBasePlacement.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getBasePlacement.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/getBasePlacement.min.js",
       "AssetKind": "All",
@@ -3434,10 +3434,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\getBasePlacement.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getFreshSideObject.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getFreshSideObject.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/getFreshSideObject.js",
       "AssetKind": "All",
@@ -3451,10 +3451,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\getFreshSideObject.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getFreshSideObject.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getFreshSideObject.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/getFreshSideObject.min.js",
       "AssetKind": "All",
@@ -3468,10 +3468,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\getFreshSideObject.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getMainAxisFromPlacement.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getMainAxisFromPlacement.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/getMainAxisFromPlacement.js",
       "AssetKind": "All",
@@ -3485,10 +3485,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\getMainAxisFromPlacement.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getMainAxisFromPlacement.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getMainAxisFromPlacement.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/getMainAxisFromPlacement.min.js",
       "AssetKind": "All",
@@ -3502,10 +3502,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\getMainAxisFromPlacement.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getOppositePlacement.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getOppositePlacement.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/getOppositePlacement.js",
       "AssetKind": "All",
@@ -3519,10 +3519,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\getOppositePlacement.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getOppositePlacement.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getOppositePlacement.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/getOppositePlacement.min.js",
       "AssetKind": "All",
@@ -3536,10 +3536,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\getOppositePlacement.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getOppositeVariationPlacement.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getOppositeVariationPlacement.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/getOppositeVariationPlacement.js",
       "AssetKind": "All",
@@ -3553,10 +3553,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\getOppositeVariationPlacement.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getOppositeVariationPlacement.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getOppositeVariationPlacement.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/getOppositeVariationPlacement.min.js",
       "AssetKind": "All",
@@ -3570,10 +3570,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\getOppositeVariationPlacement.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getVariation.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getVariation.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/getVariation.js",
       "AssetKind": "All",
@@ -3587,10 +3587,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\getVariation.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getVariation.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getVariation.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/getVariation.min.js",
       "AssetKind": "All",
@@ -3604,10 +3604,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\getVariation.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\math.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\math.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/math.js",
       "AssetKind": "All",
@@ -3621,10 +3621,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\math.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\math.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\math.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/math.min.js",
       "AssetKind": "All",
@@ -3638,10 +3638,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\math.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\mergeByName.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\mergeByName.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/mergeByName.js",
       "AssetKind": "All",
@@ -3655,10 +3655,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\mergeByName.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\mergeByName.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\mergeByName.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/mergeByName.min.js",
       "AssetKind": "All",
@@ -3672,10 +3672,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\mergeByName.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\mergePaddingObject.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\mergePaddingObject.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/mergePaddingObject.js",
       "AssetKind": "All",
@@ -3689,10 +3689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\mergePaddingObject.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\mergePaddingObject.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\mergePaddingObject.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/mergePaddingObject.min.js",
       "AssetKind": "All",
@@ -3706,10 +3706,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\mergePaddingObject.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\orderModifiers.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\orderModifiers.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/orderModifiers.js",
       "AssetKind": "All",
@@ -3723,10 +3723,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\orderModifiers.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\orderModifiers.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\orderModifiers.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/orderModifiers.min.js",
       "AssetKind": "All",
@@ -3740,10 +3740,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\orderModifiers.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\rectToClientRect.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\rectToClientRect.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/rectToClientRect.js",
       "AssetKind": "All",
@@ -3757,10 +3757,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\rectToClientRect.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\rectToClientRect.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\rectToClientRect.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/rectToClientRect.min.js",
       "AssetKind": "All",
@@ -3774,10 +3774,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\rectToClientRect.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\uniqueBy.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\uniqueBy.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/uniqueBy.js",
       "AssetKind": "All",
@@ -3791,10 +3791,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\uniqueBy.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\uniqueBy.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\uniqueBy.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/uniqueBy.min.js",
       "AssetKind": "All",
@@ -3808,10 +3808,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\uniqueBy.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\validateModifiers.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\validateModifiers.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/validateModifiers.js",
       "AssetKind": "All",
@@ -3825,10 +3825,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\validateModifiers.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\validateModifiers.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\validateModifiers.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/validateModifiers.min.js",
       "AssetKind": "All",
@@ -3842,10 +3842,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\validateModifiers.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\within.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\within.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/within.js",
       "AssetKind": "All",
@@ -3859,10 +3859,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\within.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\within.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\within.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/esm/utils/within.min.js",
       "AssetKind": "All",
@@ -3876,10 +3876,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\esm\\utils\\within.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\enums.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\enums.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/umd/enums.js",
       "AssetKind": "All",
@@ -3893,10 +3893,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\umd\\enums.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\enums.js.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\enums.js.map",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/umd/enums.js.map",
       "AssetKind": "All",
@@ -3910,10 +3910,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\umd\\enums.js.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\enums.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\enums.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/umd/enums.min.js",
       "AssetKind": "All",
@@ -3927,10 +3927,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\umd\\enums.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\enums.min.js.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\enums.min.js.map",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/umd/enums.min.js.map",
       "AssetKind": "All",
@@ -3944,10 +3944,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\umd\\enums.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper-base.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper-base.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/umd/popper-base.js",
       "AssetKind": "All",
@@ -3961,10 +3961,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\umd\\popper-base.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper-base.js.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper-base.js.map",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/umd/popper-base.js.map",
       "AssetKind": "All",
@@ -3978,10 +3978,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\umd\\popper-base.js.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper-base.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper-base.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/umd/popper-base.min.js",
       "AssetKind": "All",
@@ -3995,10 +3995,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\umd\\popper-base.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper-base.min.js.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper-base.min.js.map",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/umd/popper-base.min.js.map",
       "AssetKind": "All",
@@ -4012,10 +4012,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\umd\\popper-base.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper-lite.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper-lite.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/umd/popper-lite.js",
       "AssetKind": "All",
@@ -4029,10 +4029,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\umd\\popper-lite.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper-lite.js.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper-lite.js.map",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/umd/popper-lite.js.map",
       "AssetKind": "All",
@@ -4046,10 +4046,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\umd\\popper-lite.js.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper-lite.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper-lite.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/umd/popper-lite.min.js",
       "AssetKind": "All",
@@ -4063,10 +4063,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\umd\\popper-lite.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper-lite.min.js.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper-lite.min.js.map",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/umd/popper-lite.min.js.map",
       "AssetKind": "All",
@@ -4080,10 +4080,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\umd\\popper-lite.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/umd/popper.js",
       "AssetKind": "All",
@@ -4097,10 +4097,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\umd\\popper.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper.js.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper.js.map",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/umd/popper.js.map",
       "AssetKind": "All",
@@ -4114,10 +4114,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\umd\\popper.js.map"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper.min.js",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper.min.js",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/umd/popper.min.js",
       "AssetKind": "All",
@@ -4131,10 +4131,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\popper.js\\umd\\popper.min.js"
     },
     {
-      "Identity": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper.min.js.map",
+      "Identity": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper.min.js.map",
       "SourceId": "GuitarShop",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\",
       "BasePath": "_content/GuitarShop",
       "RelativePath": "lib/popper.js/umd/popper.min.js.map",
       "AssetKind": "All",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OS+Idtk92T7+NH39+0xjOhB8pAGuGsxFajdtdF5BqzV2ZvpjZ3D8B+PqsgA3Z65jhQhMrpUhKfNUun3XQC9tvA==",
+  "dgSpecHash": "QtMdseBn9EjLtDQtK9UqOFoUh5F77+OpF1eHCrpukjWvWbRyPyryKWrrRwwjtuZ3qRYfEmJgrKOJ3CqpdahXLw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\GuitarShop.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\GuitarShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

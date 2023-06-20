@@ -61,16 +61,16 @@ namespace GuitarShop.Controllers
         //     // bind product to AddUpdate view
         //     return View("Add", product);
         // }
-        [Route("[action]")]
+        [Route("Product/Add")]
         [HttpGet]
-        public IActionResult Create()
+        public IActionResult add()
         {
           return View();
         }
 
-       [Route("[action]")]
+       [Route("Product/Add")]
         [HttpPost]
-        public IActionResult Create(Product product)
+        public IActionResult add(Product product)
         {
            
               context.Products.Add(product);

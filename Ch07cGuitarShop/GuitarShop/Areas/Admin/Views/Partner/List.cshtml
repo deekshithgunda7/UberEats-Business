@@ -1,6 +1,8 @@
 ﻿@model List<Product>
 @{
-    ViewData["Title"] = "Product Manager";
+    ViewData["Title"] = "Partner";
+    ViewBag.Dta="new";
+   
 }
 
 <h1>@ViewBag.Title</h1>
@@ -75,7 +77,7 @@
                             <td>retail</td>
                         }
                         <td> <a asp-action="Approve"
-                               asp-route-id="@p.ProductID">New</a></td>
+                               asp-route-id="@p.ProductID">new</a></td>
                        
                         @* <td>@p.Price.ToString("C")</td> *@
                         <td>

@@ -9,93 +9,97 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GuitarShop
 build_property.RootNamespace = GuitarShop
-build_property.ProjectDir = C:\Users\HP\Desktop\DotNet\Ch07cGuitarShop\GuitarShop\
+build_property.ProjectDir = C:\Users\HP\Desktop\UberEatsNew\Ch07cGuitarShop\GuitarShop\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\HP\Desktop\DotNet\Ch07cGuitarShop\GuitarShop
+build_property.MSBuildProjectDirectory = C:\Users\HP\Desktop\UberEatsNew\Ch07cGuitarShop\GuitarShop
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/HP/Desktop/DotNet/Ch07cGuitarShop/GuitarShop/Areas/Admin/Views/Business/Index.cshtml]
+[C:/Users/HP/Desktop/UberEatsNew/Ch07cGuitarShop/GuitarShop/Areas/Admin/Views/Business/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQnVzaW5lc3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/DotNet/Ch07cGuitarShop/GuitarShop/Areas/Admin/Views/Category/AddUpdate.cshtml]
+[C:/Users/HP/Desktop/UberEatsNew/Ch07cGuitarShop/GuitarShop/Areas/Admin/Views/Category/AddUpdate.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcQWRkVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/DotNet/Ch07cGuitarShop/GuitarShop/Areas/Admin/Views/Category/Delete.cshtml]
+[C:/Users/HP/Desktop/UberEatsNew/Ch07cGuitarShop/GuitarShop/Areas/Admin/Views/Category/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/DotNet/Ch07cGuitarShop/GuitarShop/Areas/Admin/Views/Category/List.cshtml]
+[C:/Users/HP/Desktop/UberEatsNew/Ch07cGuitarShop/GuitarShop/Areas/Admin/Views/Category/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQ2F0ZWdvcnlcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/DotNet/Ch07cGuitarShop/GuitarShop/Areas/Admin/Views/Home/Index.cshtml]
+[C:/Users/HP/Desktop/UberEatsNew/Ch07cGuitarShop/GuitarShop/Areas/Admin/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/DotNet/Ch07cGuitarShop/GuitarShop/Areas/Admin/Views/Product/AddUpdate.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxBZGRVcGRhdGUuY3NodG1s
+[C:/Users/HP/Desktop/UberEatsNew/Ch07cGuitarShop/GuitarShop/Areas/Admin/Views/Partner/AddUpdate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGFydG5lclxBZGRVcGRhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/DotNet/Ch07cGuitarShop/GuitarShop/Areas/Admin/Views/Product/Approve.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxBcHByb3ZlLmNzaHRtbA==
+[C:/Users/HP/Desktop/UberEatsNew/Ch07cGuitarShop/GuitarShop/Areas/Admin/Views/Partner/Approve.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGFydG5lclxBcHByb3ZlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/DotNet/Ch07cGuitarShop/GuitarShop/Areas/Admin/Views/Product/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
+[C:/Users/HP/Desktop/UberEatsNew/Ch07cGuitarShop/GuitarShop/Areas/Admin/Views/Partner/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGFydG5lclxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/DotNet/Ch07cGuitarShop/GuitarShop/Areas/Admin/Views/Product/List.cshtml]
-build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUHJvZHVjdFxMaXN0LmNzaHRtbA==
+[C:/Users/HP/Desktop/UberEatsNew/Ch07cGuitarShop/GuitarShop/Areas/Admin/Views/Partner/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcUGFydG5lclxMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/DotNet/Ch07cGuitarShop/GuitarShop/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
+[C:/Users/HP/Desktop/UberEatsNew/Ch07cGuitarShop/GuitarShop/Areas/Admin/Views/Shared/_AdminLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/DotNet/Ch07cGuitarShop/GuitarShop/Areas/Admin/Views/_ViewImports.cshtml]
+[C:/Users/HP/Desktop/UberEatsNew/Ch07cGuitarShop/GuitarShop/Areas/Admin/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/DotNet/Ch07cGuitarShop/GuitarShop/Areas/Admin/Views/_ViewStart.cshtml]
+[C:/Users/HP/Desktop/UberEatsNew/Ch07cGuitarShop/GuitarShop/Areas/Admin/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/DotNet/Ch07cGuitarShop/GuitarShop/Views/Cart/Add.cshtml]
+[C:/Users/HP/Desktop/UberEatsNew/Ch07cGuitarShop/GuitarShop/Views/Cart/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxBZGQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/DotNet/Ch07cGuitarShop/GuitarShop/Views/Cart/Index.cshtml]
+[C:/Users/HP/Desktop/UberEatsNew/Ch07cGuitarShop/GuitarShop/Views/Cart/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/DotNet/Ch07cGuitarShop/GuitarShop/Views/Home/About.cshtml]
+[C:/Users/HP/Desktop/UberEatsNew/Ch07cGuitarShop/GuitarShop/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/DotNet/Ch07cGuitarShop/GuitarShop/Views/Home/Index.cshtml]
+[C:/Users/HP/Desktop/UberEatsNew/Ch07cGuitarShop/GuitarShop/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/DotNet/Ch07cGuitarShop/GuitarShop/Views/Product/add.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxhZGQuY3NodG1s
+[C:/Users/HP/Desktop/UberEatsNew/Ch07cGuitarShop/GuitarShop/Views/Partner/add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydG5lclxhZGQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/DotNet/Ch07cGuitarShop/GuitarShop/Views/Shared/_Layout.cshtml]
+[C:/Users/HP/Desktop/UberEatsNew/Ch07cGuitarShop/GuitarShop/Views/Partner/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFydG5lclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/HP/Desktop/UberEatsNew/Ch07cGuitarShop/GuitarShop/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/DotNet/Ch07cGuitarShop/GuitarShop/Views/Shared/_MainLayout.cshtml]
+[C:/Users/HP/Desktop/UberEatsNew/Ch07cGuitarShop/GuitarShop/Views/Shared/_MainLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NYWluTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/DotNet/Ch07cGuitarShop/GuitarShop/Views/_ViewImports.cshtml]
+[C:/Users/HP/Desktop/UberEatsNew/Ch07cGuitarShop/GuitarShop/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/HP/Desktop/DotNet/Ch07cGuitarShop/GuitarShop/Views/_ViewStart.cshtml]
+[C:/Users/HP/Desktop/UberEatsNew/Ch07cGuitarShop/GuitarShop/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

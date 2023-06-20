@@ -7,12 +7,15 @@ using GuitarShop.Models;
 namespace GuitarShop.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    public class ProductController : Controller
+    
+    public class PartnerController : Controller
     {
         private ShopContext context;
+          
         private List<Category> categories;
 
-        public ProductController(ShopContext ctx)
+    
+        public PartnerController(ShopContext ctx)
         {
             context = ctx;
             categories = context.Categories
@@ -48,7 +51,7 @@ namespace GuitarShop.Areas.Admin.Controllers
             // bind products to view
             return View(products);
         }
-
+        [Route("[area]/[controller]/add")]
         [HttpGet]
         public IActionResult Add()
         {
@@ -121,18 +124,25 @@ namespace GuitarShop.Areas.Admin.Controllers
             return RedirectToAction("List");
         }
 
+        
+
         [HttpGet]
+       
         public IActionResult Approve(int id)
         {
             Product product = context.Products
                 .FirstOrDefault(p => p.ProductID == id) ?? new Product();
+                 ViewBag.Dta="Approve";
+                 TempData["data"]="Approve";
+              
             return View(product);
         }
 
         [HttpPost]
         public IActionResult Approve(Product product)
         {
-            TempData["Message"] = "Approved";
+            TempData["data"]="Approve";
+            TempData["Message"] = "Partner Application  "+product.BusinessName+"has been approved";
             return RedirectToAction("List");
             // context.Products.Remove(product);
             // context.SaveChanges();

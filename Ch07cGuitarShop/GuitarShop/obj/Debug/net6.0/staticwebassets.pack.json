@@ -1,975 +1,975 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\banner1.svg",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\banner1.svg",
       "PackagePath": "staticwebassets\\images\\banner1.svg"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\banner2.svg",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\banner2.svg",
       "PackagePath": "staticwebassets\\images\\banner2.svg"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\banner3.svg",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\banner3.svg",
       "PackagePath": "staticwebassets\\images\\banner3.svg"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\fg700s_l.png",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\fg700s_l.png",
       "PackagePath": "staticwebassets\\images\\fg700s_l.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\fg700s_m.png",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\fg700s_m.png",
       "PackagePath": "staticwebassets\\images\\fg700s_m.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\fg700s_s.png",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\fg700s_s.png",
       "PackagePath": "staticwebassets\\images\\fg700s_s.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\hofner_l.png",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\hofner_l.png",
       "PackagePath": "staticwebassets\\images\\hofner_l.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\hofner_m.png",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\hofner_m.png",
       "PackagePath": "staticwebassets\\images\\hofner_m.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\hofner_s.png",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\hofner_s.png",
       "PackagePath": "staticwebassets\\images\\hofner_s.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\les_paul_l.png",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\les_paul_l.png",
       "PackagePath": "staticwebassets\\images\\les_paul_l.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\les_paul_m.png",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\les_paul_m.png",
       "PackagePath": "staticwebassets\\images\\les_paul_m.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\les_paul_s.png",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\les_paul_s.png",
       "PackagePath": "staticwebassets\\images\\les_paul_s.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\ludwig_l.png",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\ludwig_l.png",
       "PackagePath": "staticwebassets\\images\\ludwig_l.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\ludwig_m.png",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\ludwig_m.png",
       "PackagePath": "staticwebassets\\images\\ludwig_m.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\ludwig_s.png",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\ludwig_s.png",
       "PackagePath": "staticwebassets\\images\\ludwig_s.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\precision_l.png",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\precision_l.png",
       "PackagePath": "staticwebassets\\images\\precision_l.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\precision_m.png",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\precision_m.png",
       "PackagePath": "staticwebassets\\images\\precision_m.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\precision_s.png",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\precision_s.png",
       "PackagePath": "staticwebassets\\images\\precision_s.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\rodriguez_l.png",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\rodriguez_l.png",
       "PackagePath": "staticwebassets\\images\\rodriguez_l.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\rodriguez_m.png",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\rodriguez_m.png",
       "PackagePath": "staticwebassets\\images\\rodriguez_m.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\rodriguez_s.png",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\rodriguez_s.png",
       "PackagePath": "staticwebassets\\images\\rodriguez_s.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\sg_l.png",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\sg_l.png",
       "PackagePath": "staticwebassets\\images\\sg_l.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\sg_m.png",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\sg_m.png",
       "PackagePath": "staticwebassets\\images\\sg_m.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\sg_s.png",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\sg_s.png",
       "PackagePath": "staticwebassets\\images\\sg_s.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\strat_l.png",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\strat_l.png",
       "PackagePath": "staticwebassets\\images\\strat_l.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\strat_m.png",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\strat_m.png",
       "PackagePath": "staticwebassets\\images\\strat_m.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\strat_s.png",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\strat_s.png",
       "PackagePath": "staticwebassets\\images\\strat_s.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\tama_l.png",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\tama_l.png",
       "PackagePath": "staticwebassets\\images\\tama_l.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\tama_m.png",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\tama_m.png",
       "PackagePath": "staticwebassets\\images\\tama_m.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\tama_s.png",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\tama_s.png",
       "PackagePath": "staticwebassets\\images\\tama_s.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\washburn_l.png",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\washburn_l.png",
       "PackagePath": "staticwebassets\\images\\washburn_l.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\washburn_m.png",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\washburn_m.png",
       "PackagePath": "staticwebassets\\images\\washburn_m.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\washburn_s.png",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\images\\washburn_s.png",
       "PackagePath": "staticwebassets\\images\\washburn_s.png"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\enums.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\enums.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\cjs\\enums.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\enums.js.map",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\enums.js.map",
       "PackagePath": "staticwebassets\\lib\\popper.js\\cjs\\enums.js.map"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\enums.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\enums.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\cjs\\enums.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\popper-base.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\popper-base.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\cjs\\popper-base.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\popper-base.js.map",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\popper-base.js.map",
       "PackagePath": "staticwebassets\\lib\\popper.js\\cjs\\popper-base.js.map"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\popper-base.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\popper-base.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\cjs\\popper-base.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\popper-lite.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\popper-lite.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\cjs\\popper-lite.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\popper-lite.js.map",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\popper-lite.js.map",
       "PackagePath": "staticwebassets\\lib\\popper.js\\cjs\\popper-lite.js.map"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\popper-lite.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\popper-lite.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\cjs\\popper-lite.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\popper.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\popper.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\cjs\\popper.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\popper.js.map",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\popper.js.map",
       "PackagePath": "staticwebassets\\lib\\popper.js\\cjs\\popper.js.map"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\popper.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\cjs\\popper.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\cjs\\popper.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\createPopper.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\createPopper.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\createPopper.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\createPopper.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\createPopper.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\createPopper.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\contains.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\contains.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\contains.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\contains.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\contains.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\contains.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getBoundingClientRect.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getBoundingClientRect.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\getBoundingClientRect.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getBoundingClientRect.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getBoundingClientRect.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\getBoundingClientRect.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getClippingRect.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getClippingRect.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\getClippingRect.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getClippingRect.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getClippingRect.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\getClippingRect.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getCompositeRect.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getCompositeRect.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\getCompositeRect.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getCompositeRect.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getCompositeRect.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\getCompositeRect.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getComputedStyle.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getComputedStyle.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\getComputedStyle.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getComputedStyle.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getComputedStyle.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\getComputedStyle.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getDocumentElement.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getDocumentElement.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\getDocumentElement.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getDocumentElement.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getDocumentElement.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\getDocumentElement.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getDocumentRect.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getDocumentRect.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\getDocumentRect.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getDocumentRect.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getDocumentRect.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\getDocumentRect.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getHTMLElementScroll.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getHTMLElementScroll.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\getHTMLElementScroll.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getHTMLElementScroll.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getHTMLElementScroll.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\getHTMLElementScroll.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getLayoutRect.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getLayoutRect.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\getLayoutRect.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getLayoutRect.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getLayoutRect.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\getLayoutRect.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getNodeName.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getNodeName.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\getNodeName.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getNodeName.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getNodeName.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\getNodeName.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getNodeScroll.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getNodeScroll.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\getNodeScroll.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getNodeScroll.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getNodeScroll.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\getNodeScroll.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getOffsetParent.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getOffsetParent.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\getOffsetParent.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getOffsetParent.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getOffsetParent.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\getOffsetParent.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getParentNode.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getParentNode.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\getParentNode.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getParentNode.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getParentNode.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\getParentNode.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getScrollParent.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getScrollParent.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\getScrollParent.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getScrollParent.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getScrollParent.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\getScrollParent.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getViewportRect.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getViewportRect.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\getViewportRect.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getViewportRect.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getViewportRect.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\getViewportRect.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getWindow.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getWindow.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\getWindow.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getWindow.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getWindow.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\getWindow.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getWindowScroll.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getWindowScroll.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\getWindowScroll.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getWindowScroll.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getWindowScroll.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\getWindowScroll.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getWindowScrollBarX.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getWindowScrollBarX.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\getWindowScrollBarX.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getWindowScrollBarX.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\getWindowScrollBarX.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\getWindowScrollBarX.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\instanceOf.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\instanceOf.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\instanceOf.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\instanceOf.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\instanceOf.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\instanceOf.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\isScrollParent.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\isScrollParent.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\isScrollParent.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\isScrollParent.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\isScrollParent.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\isScrollParent.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\isTableElement.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\isTableElement.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\isTableElement.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\isTableElement.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\isTableElement.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\isTableElement.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\listScrollParents.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\listScrollParents.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\listScrollParents.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\listScrollParents.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\dom-utils\\listScrollParents.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\dom-utils\\listScrollParents.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\enums.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\enums.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\enums.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\enums.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\enums.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\enums.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\index.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\index.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\index.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\index.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\index.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\index.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\applyStyles.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\applyStyles.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\modifiers\\applyStyles.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\applyStyles.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\applyStyles.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\modifiers\\applyStyles.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\arrow.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\arrow.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\modifiers\\arrow.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\arrow.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\arrow.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\modifiers\\arrow.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\computeStyles.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\computeStyles.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\modifiers\\computeStyles.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\computeStyles.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\computeStyles.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\modifiers\\computeStyles.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\eventListeners.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\eventListeners.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\modifiers\\eventListeners.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\eventListeners.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\eventListeners.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\modifiers\\eventListeners.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\flip.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\flip.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\modifiers\\flip.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\flip.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\flip.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\modifiers\\flip.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\hide.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\hide.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\modifiers\\hide.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\hide.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\hide.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\modifiers\\hide.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\index.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\index.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\modifiers\\index.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\index.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\index.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\modifiers\\index.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\offset.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\offset.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\modifiers\\offset.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\offset.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\offset.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\modifiers\\offset.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\popperOffsets.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\popperOffsets.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\modifiers\\popperOffsets.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\popperOffsets.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\popperOffsets.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\modifiers\\popperOffsets.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\preventOverflow.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\preventOverflow.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\modifiers\\preventOverflow.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\preventOverflow.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\modifiers\\preventOverflow.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\modifiers\\preventOverflow.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\popper-base.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\popper-base.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\popper-base.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\popper-base.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\popper-base.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\popper-base.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\popper-lite.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\popper-lite.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\popper-lite.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\popper-lite.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\popper-lite.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\popper-lite.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\popper.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\popper.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\popper.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\popper.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\popper.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\popper.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\types.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\types.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\types.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\types.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\types.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\types.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\computeAutoPlacement.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\computeAutoPlacement.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\computeAutoPlacement.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\computeAutoPlacement.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\computeAutoPlacement.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\computeAutoPlacement.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\computeOffsets.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\computeOffsets.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\computeOffsets.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\computeOffsets.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\computeOffsets.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\computeOffsets.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\debounce.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\debounce.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\debounce.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\debounce.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\debounce.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\debounce.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\detectOverflow.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\detectOverflow.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\detectOverflow.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\detectOverflow.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\detectOverflow.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\detectOverflow.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\expandToHashMap.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\expandToHashMap.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\expandToHashMap.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\expandToHashMap.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\expandToHashMap.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\expandToHashMap.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\format.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\format.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\format.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\format.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\format.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\format.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getAltAxis.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getAltAxis.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\getAltAxis.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getAltAxis.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getAltAxis.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\getAltAxis.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getAltLen.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getAltLen.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\getAltLen.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getAltLen.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getAltLen.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\getAltLen.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getBasePlacement.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getBasePlacement.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\getBasePlacement.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getBasePlacement.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getBasePlacement.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\getBasePlacement.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getFreshSideObject.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getFreshSideObject.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\getFreshSideObject.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getFreshSideObject.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getFreshSideObject.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\getFreshSideObject.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getMainAxisFromPlacement.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getMainAxisFromPlacement.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\getMainAxisFromPlacement.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getMainAxisFromPlacement.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getMainAxisFromPlacement.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\getMainAxisFromPlacement.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getOppositePlacement.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getOppositePlacement.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\getOppositePlacement.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getOppositePlacement.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getOppositePlacement.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\getOppositePlacement.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getOppositeVariationPlacement.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getOppositeVariationPlacement.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\getOppositeVariationPlacement.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getOppositeVariationPlacement.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getOppositeVariationPlacement.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\getOppositeVariationPlacement.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getVariation.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getVariation.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\getVariation.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getVariation.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\getVariation.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\getVariation.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\math.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\math.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\math.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\math.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\math.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\math.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\mergeByName.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\mergeByName.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\mergeByName.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\mergeByName.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\mergeByName.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\mergeByName.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\mergePaddingObject.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\mergePaddingObject.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\mergePaddingObject.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\mergePaddingObject.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\mergePaddingObject.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\mergePaddingObject.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\orderModifiers.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\orderModifiers.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\orderModifiers.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\orderModifiers.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\orderModifiers.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\orderModifiers.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\rectToClientRect.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\rectToClientRect.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\rectToClientRect.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\rectToClientRect.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\rectToClientRect.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\rectToClientRect.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\uniqueBy.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\uniqueBy.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\uniqueBy.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\uniqueBy.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\uniqueBy.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\uniqueBy.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\validateModifiers.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\validateModifiers.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\validateModifiers.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\validateModifiers.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\validateModifiers.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\validateModifiers.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\within.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\within.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\within.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\within.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\esm\\utils\\within.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\esm\\utils\\within.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\enums.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\enums.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\umd\\enums.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\enums.js.map",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\enums.js.map",
       "PackagePath": "staticwebassets\\lib\\popper.js\\umd\\enums.js.map"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\enums.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\enums.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\umd\\enums.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\enums.min.js.map",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\enums.min.js.map",
       "PackagePath": "staticwebassets\\lib\\popper.js\\umd\\enums.min.js.map"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper-base.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper-base.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\umd\\popper-base.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper-base.js.map",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper-base.js.map",
       "PackagePath": "staticwebassets\\lib\\popper.js\\umd\\popper-base.js.map"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper-base.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper-base.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\umd\\popper-base.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper-base.min.js.map",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper-base.min.js.map",
       "PackagePath": "staticwebassets\\lib\\popper.js\\umd\\popper-base.min.js.map"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper-lite.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper-lite.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\umd\\popper-lite.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper-lite.js.map",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper-lite.js.map",
       "PackagePath": "staticwebassets\\lib\\popper.js\\umd\\popper-lite.js.map"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper-lite.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper-lite.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\umd\\popper-lite.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper-lite.min.js.map",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper-lite.min.js.map",
       "PackagePath": "staticwebassets\\lib\\popper.js\\umd\\popper-lite.min.js.map"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\umd\\popper.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper.js.map",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper.js.map",
       "PackagePath": "staticwebassets\\lib\\popper.js\\umd\\popper.js.map"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper.min.js",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper.min.js",
       "PackagePath": "staticwebassets\\lib\\popper.js\\umd\\popper.min.js"
     },
     {
-      "Id": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper.min.js.map",
+      "Id": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\wwwroot\\lib\\popper.js\\umd\\popper.min.js.map",
       "PackagePath": "staticwebassets\\lib\\popper.js\\umd\\popper.min.js.map"
     },
     {

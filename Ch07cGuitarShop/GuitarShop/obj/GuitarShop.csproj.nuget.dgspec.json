@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\GuitarShop.csproj": {}
+    "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\GuitarShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\GuitarShop.csproj": {
+    "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\GuitarShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\GuitarShop.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\GuitarShop.csproj",
         "projectName": "GuitarShop",
-        "projectPath": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\GuitarShop.csproj",
+        "projectPath": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\GuitarShop.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Desktop\\DotNet\\Ch07cGuitarShop\\GuitarShop\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Desktop\\UberEatsNew\\Ch07cGuitarShop\\GuitarShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
