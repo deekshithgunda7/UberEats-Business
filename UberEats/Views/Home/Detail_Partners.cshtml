@@ -1,0 +1,52 @@
+﻿@model viewModel
+
+
+<div class="container">
+    <div class="col-sm-12">
+        <form method="post" asp-controller="Home" asp-action="AddFavorites">
+            <div class="col-sm-12">
+                <h2>Partner Details</h2>
+            </div>
+            <table>
+                <tr>
+                    <td>
+                        <div class="container">
+                            <img src="./Restaurent.jpg"  alt="Image" class="img-fluid">
+                        </div>
+                    </td>
+                    <td>
+                        <table>
+                            <tr>
+                                <td> <label class="form-label" for="BusinessName">Business Name:</label></td>
+                                <td> <label class="form-label" for="BusinessName">@Model.partners.BusinessName</label></td>
+                            </tr>
+                            <tr>
+                                <td> <label class="form-label" for="BusinessAddress">Business Address:</label></td>
+                                <td> <label class="form-label" for="BusinessAddress">@Model.partners.BusinessAddress</label></td>
+                                
+                            </tr>
+                            <tr>
+                                <td> <label class="form-label" for="BusinessEmail">Business Email:</label></td>
+                               <td><label class="form-label" for="BusinessEmail">@Model.partners.BusinessEmail</label></td>
+                               
+                            </tr>
+                            <tr>
+                                <td><label class="form-label" for="Phone">Business Phone:</label></td>
+                                <td><label class="form-label" for="Phone">@Model.partners.Phone</label></td>
+                                
+                            </tr>
+                            <tr>
+                                <td> <label class="form-label" for="categoryID">Business Type:</label></td>
+                                <td> <label class="form-label" for="categoryID">@Model.partners.Category.Name</label></td>
+                               
+                            </tr>
+                            <tr>
+                                <td> <button type="submit" class="btn btn-success" onclick="addToFavorites(@Model.partners.ID)">Add to favorites</button></td>
+                            </tr>
+                        </table>
+                    </td>
+                </tr>                
+            </table>
+        </form>
+    </div>
+</div>

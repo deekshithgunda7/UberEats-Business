@@ -1,0 +1,78 @@
+﻿@model IList<Driver>;
+
+@{
+    Layout = "~/Views/Shared/_layoutAdmin.cshtml";
+}
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+<div>
+    <div class="col-sm-12" style="background:green;">
+        @TempData["Message"]
+    </div>
+    <h1>Admin</h1>
+   
+    <div class="col-sm-12 d-flex flex-row">
+        <div class="col-sm-12">
+
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>FirstName</th>
+                        <th>LastName</th>
+                        <th>DOB</th>
+                        <th>SSN</th>
+                        <th>Address</th>
+                        <th>PostCode</th>
+                        <th>Email</th>
+                        <th>Phone</th>
+                        <th>Status</th>
+                        <th>Type</th>
+                        <th></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var data in Model)
+                    {
+                        <tr>
+                            <td>@data.FirstName</td>
+                            <td>@data.LastName</td>
+                            <td>@data.DOB.ToShortDateString()</td>
+                            <td>@data.SSN</td>
+                            <td>@data.Address</td>
+                            <td>@data.PostCode</td>
+                            <td>@data.Email</td>
+                            <td>@data.Phone</td>
+                            <td>
+                                @if(data.StatusID == 1){
+                                    <a asp-controller="Admin" asp-action="ApproveDriver"
+                               asp-route-id="@data.Id">@data.Status.Name</a>
+                                }
+                                else{
+                                    @data.Status.Name
+                                }
+                                
+                            </td>
+                            <td>
+                                <a asp-controller="Admin" asp-action="AddDriver"
+                               asp-route-id="@data.Id">Update</a>
+                            </td>
+                            <td>
+                                <a asp-controller="Admin" asp-action="DeleteDriver"
+                               asp-route-id="@data.Id">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <a asp-action="AddDriver" asp-controller="Admin" class=" btn btn-primary">Add New Driver</a>
+        </div>
+    </div>
+   
+</div>
+
+<script type="text/javascript">
+    $('.sidebar a').click(function () {
+        $('.sidebar .active').removeClass('active');
+        $(this).parent().addClass('active');
+    });
+</script>

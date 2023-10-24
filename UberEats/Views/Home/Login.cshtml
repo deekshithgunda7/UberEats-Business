@@ -1,0 +1,47 @@
+﻿@model LoginModel
+@{
+}
+
+<div class="container">
+
+    <div class="col-sm-12">
+        <form method="post" asp-controller="Home" asp-action="Login">
+            <div class="col-sm-12">
+                <h2>Login</h2>
+            </div>
+
+            <div class="text-left mb-4">
+                <div class="col-sm-12 d-flex flex-column">
+                    <div class="col-sm-12 form-align">
+                        <label class="form-label" for="Email">Email:</label>
+                    </div>
+                    <div class="col-sm-12">
+                        <input type="text" id="BusinessName" asp-for="Email" name="Email" class="form-control" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+
+                </div>
+            </div>
+            <div class="text-left mb-4">
+                <div class="col-sm-12 d-flex flex-column">
+                    <div class="col-sm-12 form-align">
+                        <label class="form-label" for="Password">Password:</label>
+                    </div>
+                    <div class="col-sm-12">
+                        <input type="password" id="Password" asp-for="Password" name="Password" class="form-control" />
+                        <span asp-validation-for="Password" class="text-danger"></span>
+                    </div>
+
+                </div>
+            </div>
+            <div class="col-sm-12 mb-3">
+                <input type="checkbox" id="RemeberMe" asp-for="RemeberMe" name="RemeberMe" />
+                <label for="RemeberMe">Remember Me</label>
+            </div>
+            <div class="col-sm-12 text-end mt-3">
+                <button type="submit" class="btn btn-primary">Login</button>
+                <a asp-controller="Home" class="btn btn-outline-dark" asp-action="AddPartner">Cancel</a>
+            </div>
+        </form>
+    </div>
+</div>

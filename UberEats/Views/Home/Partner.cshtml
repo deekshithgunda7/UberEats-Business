@@ -1,0 +1,38 @@
+﻿@model Partners
+@{
+}
+
+<div class="row">
+    <h1>Welcome! Partner</h1>
+    <div class="cols-md-12">
+
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Address</th>
+                    <th>Email</th>
+                    <th>Phone</th>
+                    <th>Type</th>
+                    <th>Status</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr>
+                    <td>@Model?.BusinessName</td>
+                    <td>@Model?.BusinessAddress</td>
+                    <td>@Model?.BusinessEmail</td>
+                    <td>@Model?.Phone</td>
+                    <td>@Model?.Category?.Name</td>
+                           <td>@Model?.Status?.Name</td>
+                    <td>
+                        <a asp-controller="Menu" asp-action="List"
+                           asp-route-id="@Model?.ID">Menu</a>
+                    </td>
+                </tr>
+
+            </tbody>
+    </div>
+</div>

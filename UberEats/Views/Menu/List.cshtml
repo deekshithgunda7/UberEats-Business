@@ -1,0 +1,72 @@
+﻿@model MenuListViewModel
+@{
+    ViewData["Title"] = "Menu Items";
+}
+
+<h3>Menu for @Model.Partner</h3>
+@if (TempData["message"] != null)
+{
+    <h5 class="w-100 p-2 bg-success">@TempData["message"]?.ToString()</h5>
+}
+<div class="row">
+
+    <div class="col-md-2">
+        <div class="list-group">
+            <a asp-controller="Menu" asp-action="List" asp-route-id="@Model.PartnerId" asp-route-menuid="0"
+               class="list-group-item
+                @(Model.ActiveMenuCategory == 0 ? "active" : "")">
+                All
+            </a>
+            @foreach (MenuCategory c in Model.MenuCategories)
+            {
+                <a asp-controller="Menu" asp-action="List" asp-route-id="@Model.PartnerId" asp-route-menuid="@c.Id"
+                   class="list-group-item
+                         @(Model.ActiveMenuCategory  == c.Id ? "active" : "")">
+                    @c.Name
+                </a>
+            }
+        </div>
+    </div>
+
+    <div class="col-md-10">
+        <table class="table table-bordered table-striped">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th>Category</th>
+                    <th>Price</th>
+                    <th>Description</th>
+                    <th></th>
+                    <th></th>
+            </thead>
+            <tbody>
+                @if (Model != null)
+                {
+                    @foreach (var item in Model.Data)
+                    {
+                        <tr>
+                            <td>@item.Name</td>
+                            <td>@item.MenuCategory?.Name</td>
+                            <td>@item.Price</td>
+                            <td>@item.Description</td>
+                            <td>
+                                <a asp-controller="Menu" asp-action="Update"
+                                   asp-route-id="@item.Id" asp-route-partnerid="@Model.PartnerId">Update</a>
+                            </td>
+                            <td>
+                                <form method="post" asp-controller="Menu" asp-action="Delete"
+                                      asp-route-id="@item.Id" asp-route-partnerid="@Model.PartnerId">
+                                <button type="submit" class="link link-danger">Delete</button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+
+        <a asp-controller="Menu" asp-action="Add" asp-route-id="@Model.PartnerId" class="mt-2">Add An Item</a>
+    </div>
+
+
+</div>

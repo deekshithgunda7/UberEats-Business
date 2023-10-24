@@ -1,0 +1,15 @@
+﻿@{
+    Layout = "~/Views/Shared/_layoutAdmin.cshtml";
+}
+
+
+<div class="col-sm-12">
+    <h1> Approve a New Driver</h1>
+    <h2>@TempData["DMessage"]</h2>
+    <div class="col-sm-3 d-flex flex-row justify-content-between ">
+        <a asp-controller="Admin" class="btn btn-primary" asp-route-id="@TempData["DID"]" asp-action="AcceptDriver">Approve</a>
+        <a asp-controller="Admin" class="btn btn-primary" asp-route-id="@TempData["DID"]" asp-action="RejectDriver">Reject</a>
+        <a asp-controller="Admin" class="btn btn-primary" asp-action="Drivers">Cancel</a>
+    </div>
+
+</div>

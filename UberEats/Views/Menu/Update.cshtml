@@ -1,0 +1,69 @@
+﻿@model MenuItem
+
+
+<div class="container">
+
+    <div class="col-sm-12">
+        <form method="post" asp-controller="Menu" asp-action="Update">
+            <div class="col-sm-12">
+                <h2>Update Item</h2>
+            </div>
+            <input type="hidden" asp-for="Id" class="form-control" />
+            <input type="hidden" asp-for="PartnerId" class="form-control" />
+            <div class="text-left mb-4">
+                <div class="col-sm-12 d-flex flex-column">
+                    <div class="col-sm-12 form-align">
+                        <label class="form-label" for="categoryID">Category:</label>
+                    </div>
+                    <div class="col-sm-12">
+
+                        <select asp-for="MenuCategoryId" class="form-control">
+                            <option id="0">Select category</option>
+                            @foreach (var category in ViewBag.MenuCategories)
+                            {
+                                <option id="@category.Id" value="@category.Id"> @category.Name</option>
+                            }
+                        </select>
+                    </div>
+                </div>
+            </div>
+            <div class="text-left mb-4">
+                <div class="col-sm-12 d-flex flex-column">
+                    <div class="col-sm-12 form-align">
+                        <label class="form-label" for="Name">Item Name:</label>
+                    </div>
+                    <div class="col-sm-12">
+                        <input type="text" asp-for="Name" class="form-control" />
+                    </div>
+
+                </div>
+            </div>
+            <div class="text-left mb-4">
+                <div class="col-sm-12 d-flex flex-column">
+                    <div class="col-sm-12 form-align">
+                        <label class="form-label" for="Price">Item Price:</label>
+                    </div>
+                    <div class="col-sm-12">
+                        <input asp-for="Price" class="form-control" />
+                    </div>
+
+                </div>
+            </div>
+            <div class="text-left mb-4">
+                <div class="col-sm-12 d-flex flex-column">
+                    <div class="col-sm-12 form-align">
+                        <label class="form-label" for="Description">Item Description:</label>
+                    </div>
+                    <div class="col-sm-12">
+                        <input type="text" asp-for="Description" class="form-control" />
+                    </div>
+
+                </div>
+            </div>
+            <div class="col-sm-12 text-center mt-3">
+                <button type="submit" class="btn btn-primary">Update</button>
+                <a asp-controller="Menu" class="btn btn-outline-dark" asp-action="List" asp-route-id="@Model.PartnerId">Cancel</a>
+            </div>
+        </form>
+    </div>
+</div>

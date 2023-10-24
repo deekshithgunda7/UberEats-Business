@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\UberEats.props" />
+</Project>

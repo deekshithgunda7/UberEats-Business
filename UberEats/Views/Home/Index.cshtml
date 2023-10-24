@@ -1,0 +1,42 @@
+﻿@using Microsoft.AspNetCore.Http
+@model viewModel
+@{
+    ViewData["Title"] = "Home Page";
+    int? favoritesCount = Context.Session.GetInt32("FavCount");
+}
+<style>
+    .custom-badge {
+        display: inline-block;
+        padding: 4px 8px;
+        background-color: white;
+        color: green;
+        font-size: 12px;
+        border-radius: 50%;
+    }
+</style>
+<div>
+    <h1>Welcome to Uber Eats</h1>
+    <div class="cols-sm-12 " style="background:green;">
+        @TempData["AUPartnerSuccess1"]
+    </div>
+    <div class="col-sm-4">
+        <ul class="list-group">
+           
+@if (TempData["FavCount"]!= null)
+{
+                <li class="list-group-item">
+                    <a asp-controller="Home" asp-action="MyFavoriteStores">
+                        My Favorite Stores
+                        <span class="custom-badge">@favoritesCount</span>
+                    </a>
+                    
+                </li>}
+           
+            <li class="list-group-item">
+                <a href="@Url.Action("Partners", "Home")">View our offerings</a>
+            </li>
+            <li class="list-group-item">Learn more about us</li>
+        </ul>
+   </div>
+   
+</div>

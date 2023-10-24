@@ -1,0 +1,77 @@
+﻿@model Driver
+@{
+    ViewData["Title"] = "Home Page";
+    Layout = "~/Views/Shared/_layoutAdmin.cshtml";
+}
+<head>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+</head>
+
+<div class="col-sm-12">
+    <form method="post" asp-action="SaveDriver" asp-controller="Admin">
+        <input name="Id" type="text" value="@Model.Id" asp-for="Id" hidden />
+        <div class="col-sm-12 d-flex flex-column">
+            <label>First Name</label>
+            <input class="form-control" type="text" value="@Model.FirstName" asp-for="FirstName" name="FirstName" />
+            <span asp-validation-for="FirstName" class="text-danger"></span>
+
+        </div>
+        <div class="col-sm-12 d-flex flex-column">
+            <label>Last Name</label>
+            <input class="form-control" type="text" value="@Model.LastName" asp-for="LastName" name="LastName" />
+            <span asp-validation-for="LastName" class="text-danger"></span>
+
+        </div>
+
+        <div class="col-sm-12 d-flex flex-column">
+            <label>Dateof Birth(MM/DD/YY)</label>
+            @Html.TextBoxFor(m => m.DOB, "{0:yyyy-MM-dd}", new { @class = "form-control", type = "date" })
+
+            @*<input class="form-control" id="DOB" value="@Model.DOB" asp-for="DOB" type="date" name="DOB" />*@
+            <span asp-validation-for="DOB" class="text-danger"></span>
+        </div>
+        <div class="col-sm-12 d-flex flex-column">
+            <label>Social Security Number</label>
+            <input class="form-control" asp-for="SSN" value="@Model.SSN" type="text" name="SSN" />
+            <span asp-validation-for="SSN" class="text-danger"></span>
+
+        </div>
+        <div class="col-sm-12 d-flex flex-column">
+            <label>Address</label>
+            <input class="form-control" type="text" value="@Model.Address" asp-for="Address" name="Address" />
+            <span asp-validation-for="Address" class="text-danger"></span>
+
+        </div>
+        <div class="col-sm-12 d-flex flex-column">
+            <label>Post Code</label>
+            <input class="form-control" asp-for="PostCode" value="@Model.PostCode" type="text" name="PostCode" />
+            <span asp-validation-for="PostCode" class="text-danger"></span>
+
+        </div>
+        <div class="col-sm-12 d-flex flex-column">
+            <label>Email</label>
+            <input class="form-control" type="text" value="@Model.Email" asp-for="Email" name="Email" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+
+        </div>
+        <div class="col-sm-12 d-flex flex-column">
+            <label>Phone</label>
+            <input class="form-control" type="text" value="@Model.Phone" asp-for="Phone" name="Phone" />
+            <span asp-validation-for="Phone" class="text-danger"></span>
+
+        </div>
+        <div class="col-sm-12 d-flex flex-column mb-2">
+            <label>Driver License Number</label>
+            <input class="form-control" type="text" value="@Model.DLNumber" asp-for="DLNumber" name="DLNumber" />
+            <span asp-validation-for="DLNumber" class="text-danger"></span>
+
+        </div>
+        <div class="col-sm-12">
+            <button type="submit" class="btn btn-primary">Add</button>
+            &nbsp;
+            <a asp-action="Drivers" asp-controller="Admin" class="btn btn-primary">Cancel</a>
+        </div>
+    </form>
+</div>

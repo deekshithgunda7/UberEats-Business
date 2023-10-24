@@ -1,0 +1,100 @@
+﻿@model viewModel
+
+@{
+    
+        Layout = "~/Views/Shared/_layoutAdmin.cshtml";
+}
+
+<div class="container">
+
+    <div class="col-sm-12">
+        <form method="post" asp-controller="Partner" asp-action="AddEditpartners">
+            <div class="col-sm-12">
+                <h2>Add Partner</h2>
+            </div>
+            <div class="col-xl-12" style="margin-top:20px;">
+                @foreach (var modeleState in ViewData.ModelState.Values)
+                {
+                    foreach (var error in modeleState.Errors)
+                    {
+                        <h5 style="color:red;margin-top:8px;font-size:8px">@error.ErrorMessage</h5>
+                    }
+                }
+            </div>
+            <input type="text" name="ID" value="@Model.partners.ID" hidden />
+            <div class="text-left mb-4">
+                <div class="col-sm-12 d-flex flex-column">
+                    <div class="col-sm-12 form-align">
+                        <label class="form-label" for="BusinessName">Business Name:</label>
+                    </div>
+                    <div class="col-sm-12">
+                        <input type="text" id="BusinessName" asp-for="partners.BusinessName" name="BusinessName" value="@Model.partners.BusinessName" class="form-control" />
+                    </div>
+
+                </div>
+            </div>
+            <div class="text-left mb-4">
+                <div class="col-sm-12 d-flex flex-column">
+                    <div class="col-sm-12 form-align">
+                        <label class="form-label" for="BusinessAddress">Business Address:</label>
+                    </div>
+                    <div class="col-sm-12">
+                        <input type="text" id="BusinessAddress" asp-for="partners.BusinessAddress" name="BusinessAddress" value="@Model.partners.BusinessAddress" class="form-control" />
+                    </div>
+
+                </div>
+            </div>
+            <div class="text-left mb-4">
+                <div class="col-sm-12 d-flex flex-column">
+                    <div class="col-sm-12 form-align">
+                        <label class="form-label" for="BusinessEmail">Business Email:</label>
+                    </div>
+                    <div class="col-sm-12">
+                        <input type="text" id="BusinessEmail" asp-for="partners.BusinessEmail" name="BusinessEmail" value="@Model.partners.BusinessEmail" class="form-control" />
+                    </div>
+
+                </div>
+            </div>
+            <div class="text-left mb-4">
+                <div class="col-sm-12 d-flex flex-column">
+                    <div class="col-sm-12 form-align">
+                        <label class="form-label" for="Phone">Business Phone:</label>
+                    </div>
+                    <div class="col-sm-12">
+                        <input type="text" id="Phone" asp-for="partners.Phone" name="Phone" value="@Model.partners.Phone" class="form-control" />
+                    </div>
+
+                </div>
+            </div>
+            <div class="text-left mb-4">
+                <div class="col-sm-12 d-flex flex-column">
+                    <div class="col-sm-12 form-align">
+                        <label class="form-label" for="categoryID">Business Type:</label>
+                    </div>
+                    <div class="col-sm-12">
+
+                        <select id="categoryID" asp-for="partners.categoryID" name="categoryID" value="@Model.partners.categoryID" class="form-control">
+                            <option id="0">Select category</option>
+                            @foreach (var category in Model.categories)
+                            {
+                                @if (category.Id == Model.partners.categoryID)
+                                {
+                                    <option id="@category.Id" value="@category.Id" selected> @category.Name</option>
+                                }
+                                else
+                                {
+                                    <option id="@category.Id" value="@category.Id"> @category.Name</option>
+                                }
+                            }
+                        </select>
+                    </div>
+
+                </div>
+            </div>
+            <div class="col-sm-12 text-center mt-3">
+                <button type="submit" class="btn btn-success">@ViewBag.btnval</button>
+                <a asp-controller="Home" class="btn btn-outline-dark" asp-action="Index">Cancel</a>
+            </div>
+        </form>
+    </div>
+</div>

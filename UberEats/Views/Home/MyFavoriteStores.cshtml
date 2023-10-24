@@ -1,0 +1,25 @@
+﻿@model viewModel
+@{
+    ViewData["Title"] = "My Favorite Stores";
+   
+}
+
+<h1 class="text-center">My Favorites</h1>
+
+<div class="text-center">
+    <a href="@Url.Action("Index", "Home")" class="btn btn-secondary">Back to Home</a>
+    <a href="@Url.Action("ClearFavorites", "Home")" class="btn btn-secondary">Clear Favorites</a>
+</div>
+
+<table class="table">
+   
+    <tbody>
+        @foreach (var partner in Model.Partners)
+        {
+            <tr>
+                <td>@partner.BusinessName</td>
+                <td>@partner.BusinessAddress</td>
+            </tr>
+        }
+    </tbody>
+</table>

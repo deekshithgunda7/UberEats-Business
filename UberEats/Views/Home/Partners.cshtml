@@ -1,0 +1,80 @@
+﻿@model viewModel
+@{
+    //Layout = "~/Views/Shared/_layoutAdm.cshtml";
+}
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+<div>
+    <div class="col-sm-12" style="background:green;">
+        @TempData["AUPartnerSuccess1"]
+        @TempData["DeleteSuccess"]
+        @TempData["Message"]
+    </div>
+    <h1>Main</h1>
+    @if (TempData.ContainsKey("Fav"))
+    {
+        <div style="background-color:green;color:black">
+        <h4 >@TempData["Fav"]</h4></div>
+    }
+    <div class="col-sm-12 d-flex flex-row">
+
+        <div class="col-sm-3">
+            <ul class="list-group sidebar">
+                <li class="list-group-item"> <a asp-action="partners" asp-controller="Admin" asp-route-id="0"> All Categories </a> </li>
+                @foreach (var category in Model.categories)
+                {
+                    <li class="list-group-item"><a asp-action="partners" asp-controller="Admin" asp-route-id="@category.Id">  @category.Name</a> </li>
+                }
+            </ul>
+        </div>
+        <div class="col-sm-9">
+
+            <table class="table table-bordered">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Address</th>
+                        <th>Email</th>
+                        <th>Phone</th>
+                        <th>ID</th>
+                        <th>Type</th>
+                        <th>Status</th>
+                        
+                    </tr>
+                </thead>
+                <tbody>
+                    @if (Model.Partners != null)
+                    {
+                        @foreach (var data in Model.Partners)
+                        {
+                            <tr>
+                                <td>@data.BusinessName</td>
+                                <td>@data.BusinessAddress</td>
+                                <td>@data.BusinessEmail</td>
+                                <td>@data.Phone</td>
+                                <td>@data.ID</td>
+                                <td>
+                                    <a asp-controller="Partner" asp-action="Partners"
+                                    asp-route-id="@data.ID">Menu</a>
+                                </td>
+                                <td>
+                                    <a asp-controller="Home" asp-action="Detail_Partners"
+                                    asp-route-id="@data.ID">Details</a>
+                                </td>
+                            </tr>
+                        }
+                    }
+                </tbody>
+            </table>
+          
+        </div>
+    </div>
+
+</div>
+
+<script type="text/javascript">
+    $('.sidebar a').click(function () {
+        $('.sidebar .active').removeClass('active');
+        $(this).parent().addClass('active');
+    });
+</script>
